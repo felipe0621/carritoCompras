@@ -136,6 +136,33 @@ function vaciarCarrito() {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // //creando las variables  video 117
 // const carrito = document.querySelector('#carrito'); //seleccionamos el id carrito
 // const contenedorCarrito = document.querySelector('#lista-carrito tbody'); //selecciono el id lista-carrito y la etiq. tbody
